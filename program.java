@@ -1,4 +1,4 @@
-package lesson_java_01;
+
 import java.util.Scanner;
 
 import javax.swing.SortOrder;
